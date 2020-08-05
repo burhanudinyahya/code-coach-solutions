@@ -8,8 +8,8 @@ Code Coach solution in Python
 
 ### [Easy Level](/SoloLearn/EasyLevel)
 
-- [ ] [01-Popsicles](/SoloLearn/EasyLevel/01-Popsicles.md)
-- [ ] [02-Halloween-Candy](/SoloLearn/EasyLevel/02-Halloween-Candy.md)
+- [x] [01-Popsicles](/SoloLearn/EasyLevel/01-Popsicles.md)
+- [x] [02-Halloween-Candy](/SoloLearn/EasyLevel/02-Halloween-Candy.md)
 - [ ] [03-First-Bowl](/SoloLearn/EasyLevel/03-First-Bowl.md)
 - [ ] [04-Cheer-Creator](/SoloLearn/EasyLevel/04-Cheer-Creator.md)
 - [ ] [05-Skee-Ball](/SoloLearn/EasyLevel/05-Skee-Ball.md)
